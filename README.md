@@ -1,2 +1,25 @@
 # coders-talk-show
-full of freedom, democracy, civilization, harmony, integrity, friendship, patriotism, dedication !!!! 
+
+
+
+### 一、宗旨
+
+打破壁垒,  聚合孤岛。
+
+你的技术道路, 绝不孤单。
+
+志同道合的组成团队，成为伙伴， 携手共进。
+
+摈弃粗制滥造、用心提问题、用心做回答、用心做分享
+
+
+
+### 二、方式
+
+就用ISSUE 提出来好
+
+
+
+### 三、优秀思想碰撞
+
+todo: 
